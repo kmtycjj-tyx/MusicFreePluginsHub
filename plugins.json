@@ -46,6 +46,11 @@
       "version": "0.0.1"
     },
     {
+      "name": "Youtube",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/youtube\/index.js",
+      "version": "0.0.1"
+    },
+    {
       "name": "bilibili",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/bilibili\/index.js",
       "version": "0.2.3"
